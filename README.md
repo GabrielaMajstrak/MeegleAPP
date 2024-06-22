@@ -6,5 +6,15 @@ The objective of this project is to develop an application that creatively visua
 
 ## My contribution: Youtube Tab
 I was responsible for developing the YouTube section of the application. Below are screenshots showcasing this part of the application.
-![Strona główna aplikacji](screenshots/titlepage.PNG)
 
+### Main page
+![Meegle Main page](screenshots/titlepage.PNG)
+
+### My tab 
+
+![Youtube tab with first plot](screenshots/youtube1.PNG)
+
+
+![Youtube tab with second plot](screenshots/youtube2.PNG)
+
+![Comments Section](screenshots/komentarze.PNG)
