@@ -10,11 +10,12 @@ I was responsible for developing the YouTube section of the application. Below a
 ### Main page
 ![Meegle Main page](screenshots/titlepage.PNG)
 
-### My tab 
+### Youtube tab with first plot
 
 ![Youtube tab with first plot](screenshots/youtube1.PNG)
 
-
+### Youtube tab with second plot
 ![Youtube tab with second plot](screenshots/youtube2.PNG)
 
+### Comments Section
 ![Comments Section](screenshots/komentarze.PNG)
